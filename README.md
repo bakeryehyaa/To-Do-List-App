@@ -1,20 +1,22 @@
-Task Management System
-A task management application built with PHP, MySQL, HTML, and CSS. This project allows users to create, edit, and manage tasks efficiently. It features a responsive design for seamless use on both desktop and mobile devices.
+# Task Management System
 
-Features
-Add and edit tasks
-Mark tasks as completed
-View tasks with their status
-User authentication
-Technologies
-PHP: Server-side scripting
-MySQL: Database management
-HTML & CSS: Frontend design
-Installation
-Clone the repository.
-Set up a local server with PHP and MySQL.
-Import the database schema.
-Update the database configuration in config.php.
-Usage
-Access the application via your local server.
-Use the interface to manage tasks and user sessions.
+A task management application built using PHP, MySQL, HTML, and CSS. This project provides an efficient way to manage tasks with a user-friendly interface and responsive design.
+
+## Features
+
+- **Task Creation & Editing**: Add and modify tasks easily.
+- **Task Completion Tracking**: Mark tasks as completed or pending.
+- **Responsive Design**: Optimized for both desktop and mobile devices.
+- **User Authentication**: Secure login and registration for personalized task management.
+
+## Technologies Used
+
+- **PHP**: For server-side scripting and handling user interactions.
+- **MySQL**: For database management and task storage.
+- **HTML** & **CSS**: For creating the user interface and styling.
+
+## Installation
+
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/bakeryehyaa/To-Do-List-App.git
